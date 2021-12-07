@@ -1,5 +1,4 @@
----
-## Exercício `Agenda`
+# Exercício `Agenda`
 
 Crie um repositório baseado [neste template](https://github.com/ermogenes/agenda-template).
 
@@ -22,4 +21,3 @@ ENGINE = InnoDB;
 
 Implemente as funções indicadas no menu, salvando no banco de dados criado.
 
----
